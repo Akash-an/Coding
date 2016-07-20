@@ -2,7 +2,7 @@
 	Check if a Binary Tree is Balaced. A tree is said to be balanced if the max difference 
 	in height between two leaf nodes is 1.
 */
-
+//dont put up wrong codes....
 #include <bits/stdc++.h>
 using namespace std;
 
